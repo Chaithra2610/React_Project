@@ -57,9 +57,9 @@
 
  
 
-<h4>Technology Stack </h4>
+<h3>Technology Stack </h3>
 
-<h5>React:</h5> For building the user interface. 
+<h5>React</h5>:For building the user interface. 
 
 <h5>React Router:</h5> For application routing. 
 
@@ -69,11 +69,11 @@
 
 <h5>Syncfusion:</h5> For icons and potentially advanced UI components like the calendar. 
 
-<h4>Setup Instructions </h4>
+<h3>Setup Instructions </h3>
 
 <h5>Clone the Repository </h5>
 
-git clone https://github.com/yourrepository/dashboaard-build.git 
+git clone https://github.com/yourrepository/React_Project_ERP_SYSTEM.git 
 
 cd dashboard-build 
 
@@ -103,7 +103,7 @@ The application will be available at http://localhost:3000. Navigate to this URL
 
 <h5>Light & Dark Mode:</h5> Toggle between modes via the user interface for preferred visibility. 
 
-<h4>License </h4>
+<h3>License </h3>
 
 This project is licensed under the MIT License - see the LICENSE file for details. 
 
