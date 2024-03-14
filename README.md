@@ -59,14 +59,10 @@
 
 <h3>Technology Stack </h3>
 
-<h5>React</h5>:For building the user interface. 
-
+<h5>React:</h5>For building the user interface. 
 <h5>React Router:</h5> For application routing. 
-
 <h5>Material-UI:</h5> For UI components and design. 
-
 <h5>TailwindCSS:</h5> For custom styling and responsive design. 
-
 <h5>Syncfusion:</h5> For icons and potentially advanced UI components like the calendar. 
 
 <h3>Setup Instructions </h3>
