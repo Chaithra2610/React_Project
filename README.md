@@ -9,8 +9,7 @@
 <h3>Features</h3>
 
 <h4>Dashboard </h4>
-<li>
-<h5>Dashboard Essentials:</h5> Offers a comprehensive view of crucial business metrics, such as total products and orders, and provides quick navigation to Products and Orders management pages for efficient operation oversight. </li>
+<li><h5>Dashboard Essentials:</h5> Offers a comprehensive view of crucial business metrics, such as total products and orders, and provides quick navigation to Products and Orders management pages for efficient operation oversight. </li>
 
 <h4>Products Management</h4>
 
