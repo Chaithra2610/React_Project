@@ -48,7 +48,7 @@
 </ui>
  
 
-<h3> The frontpage of the dashboard:<h3>
+### The frontpage of the dashboard:
 
 <img width="925" alt="Dashboard1" src="https://github.com/Chaithra2610/React_Project/assets/106442019/42208b2a-b686-4b13-b6dd-bfa3f0a58408">
 
@@ -57,50 +57,49 @@
 
  
 
-<h3>Technology Stack </h3>
+### Technology Stack 
 
-<h5>React:</h5>For building the user interface. 
-<h5>React Router:</h5> For application routing. 
-<h5>Material-UI:</h5> For UI components and design. 
-<h5>TailwindCSS:</h5> For custom styling and responsive design. 
-<h5>Syncfusion:</h5> For icons and potentially advanced UI components like the calendar. 
+##### React: For building the user interface. 
+##### React Router: For application routing. 
+##### Material-UI: For UI components and design. 
+##### TailwindCSS: For custom styling and responsive design. 
+##### Syncfusion: For icons and potentially advanced UI components like the calendar. 
 
-<h3>Setup Instructions </h3>
+### Setup Instructions
 
-<h5>Clone the Repository </h5>
+#### Clone the Repository 
 
-git clone https://github.com/yourrepository/React_Project_ERP_SYSTEM.git 
+<h5> 'git clone https://github.com/yourrepository/React_Project_ERP_SYSTEM.git' </h5> 
 
-cd dashboard-build 
+<h5> 'cd dashboard-build' </h5>
 
-<h5>Install Dependencies</h5> 
+#### Install Dependencies
 
-npm install  
+<h5> 'npm install' </h5>
 
-<h5>Run the Application </h5>
+#### Run the Application 
 
-Start the ERP system by running ‘npm start’ to initiate the application's execution, enabling local interaction. 
-
+Start the ERP system by running <h5>‘npm start'</h5> to initiate the application's execution, enabling local interaction. 
 The application will be available at http://localhost:3000. Navigate to this URL in your browser to start using the ERP system. 
 
-<h3>Usage Guide </h3>
+### Usage Guide 
 
-<h5>Dashboard:</h5> Utilize the dashboard for an overview and quick navigation. 
+##### Dashboard: Utilize the dashboard for an overview and quick navigation. 
 
-<h5>Managing Products:</h5> Access the Products Management page to add, edit, or delete product listings. 
+##### Managing Products: Access the Products Management page to add, edit, or delete product listings. 
 
-<h5>Managing Orders:</h5> Visit the Orders Management section to view and manage orders. 
+##### Managing Orders: Visit the Orders Management section to view and manage orders. 
 
-<h5>Managing customers:</h5> Access the Customers page to update, delete access. 
+##### Managing customers: Access the Customers page to update, delete access. 
 
-<h5>Calendar View:</h5> Use the optional Calendar View to track order deliveries by date. 
+##### Calendar View: Use the optional Calendar View to track order deliveries by date. 
 
-<h5>Profile Page:</h5> Explore the profile page for a detailed view of e-commerce metrics. 
+##### Profile Page: Explore the profile page for a detailed view of e-commerce metrics. 
 
-<h5>Light & Dark Mode:</h5> Toggle between modes via the user interface for preferred visibility. 
+##### Light & Dark Mode: Toggle between modes via the user interface for preferred visibility. 
 
-<h3>License </h3>
+### License 
 
-This project is licensed under the MIT License - see the LICENSE file for details. 
+##### This project is licensed under the MIT License - see the LICENSE file for details. 
 
  
