@@ -1,18 +1,18 @@
 <h2>Project Objectives </h2>
+<ui>
+<li>Develop a responsive and intuitive interface for managing essential business operations. </li>
 
-Develop a responsive and intuitive interface for managing essential business operations. 
+<li>Implement navigation across the ERP system's sections using React Router. </li>
 
-Implement navigation across the ERP system's sections using React Router. 
+<li>Feature an Orders Calendar View for better visualization of order schedules. </li>
+</ui>
+<h3>Features</h3>
 
-Feature an Orders Calendar View for better visualization of order schedules. 
+<h4>Dashboard </h4>
 
-Features 
+<h5>Dashboard Essentials</h5>: Offers a comprehensive view of crucial business metrics, such as total products and orders, and provides quick navigation to Products and Orders management pages for efficient operation oversight. 
 
-Dashboard 
-
-Dashboard Essentials: Offers a comprehensive view of crucial business metrics, such as total products and orders, and provides quick navigation to Products and Orders management pages for efficient operation oversight. 
-
-Products Management 
+<h4>Products Management</h4>
 
 Comprehensive Product Listings: Displays an organized list of products, complete with details like name, category, price, and stock quantity, leveraging mock data for a realistic preview of inventory management. 
 
