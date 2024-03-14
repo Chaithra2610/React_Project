@@ -1,4 +1,4 @@
-Project Objectives 
+<h2>Project Objectives </h2>
 
 Develop a responsive and intuitive interface for managing essential business operations. 
 
